@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubWatcherLJW", "GitHubWatcherLJW.csproj", "{A506D5BC-0B63-48D0-BD2A-57F6FE8B3F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A506D5BC-0B63-48D0-BD2A-57F6FE8B3F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A506D5BC-0B63-48D0-BD2A-57F6FE8B3F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A506D5BC-0B63-48D0-BD2A-57F6FE8B3F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A506D5BC-0B63-48D0-BD2A-57F6FE8B3F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CBE9AC3-7DEA-4E16-ACF8-9BADD8928DF6}
+	EndGlobalSection
+EndGlobal
